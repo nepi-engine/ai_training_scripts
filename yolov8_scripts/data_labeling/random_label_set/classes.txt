@@ -1,7 +1,0 @@
-Line
-Curve
-Spread
-Beam
-Flash
-Line_Not_On_Chain
-Missing
