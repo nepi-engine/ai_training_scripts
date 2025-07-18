@@ -1,0 +1,7 @@
+Line
+Curve
+Spread
+Overexposed
+Flash
+Off_Chain
+Missing

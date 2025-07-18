@@ -1,0 +1,19 @@
+
+
+MODEL_NAME:
+  name: light_bulb_640_yolov8m
+DESCRIPTION:
+  name: light bulb object detector
+CLASSES:
+  names:
+  - Can
+  - Lamp
+
+BASE_MODEL:
+  name: yolov8m.pt
+IMAGE_SIZE:
+  name: 640
+NUM_EPOCHS:
+  name: 300 
+BATCH_SIZE:
+  name: 8
